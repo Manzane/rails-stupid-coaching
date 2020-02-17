@@ -1,0 +1,32 @@
+$gray: #F4F4F4;
+
+body {
+  background: $gray; // Using this variable
+}
+
+p {
+  background-color: white;
+  padding: 10px;
+
+}
+.container {
+  width: 700px;
+  height: 80vh;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: white;
+}
+
+.coach {
+  background-color: #fff0b7;
+  border-left: 3px solid black;
+  padding: 10px;
+
+
+}
+.you {
+  border-left: 3px solid black;
+  padding: 10px;
+
+}
+
